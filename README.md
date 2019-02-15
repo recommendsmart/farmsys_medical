@@ -1,2 +1,2 @@
 # farmsys_medical
-farmsys_medical feature
+farmsys_medical module
